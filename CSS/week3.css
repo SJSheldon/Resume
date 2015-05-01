@@ -1,0 +1,57 @@
+@import url(http://fonts.googleapis.com/css?family=Open+Sans:400,300,700);
+.jumbotron {
+    margin-bottom: 25px;
+    background-image: url(../images/computerboard.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+    color: white;
+    height: 300px;
+}
+
+.navbar {
+    background-color: transparent;
+    background: transparent;
+}
+
+.navbar a {
+    color: #fea19a
+}
+
+#contact {
+    font-weight: 700;
+    height: 100px;
+}
+
+#skills {
+    background-color: lightgray;
+}
+
+#statistics {
+    font-weight: 700;
+    font-size: 2em;
+    height: 200px;
+}
+
+#stufficando {
+    background-color: lightgray;
+}
+
+#workstatus {}
+
+#resume {
+    background-color: lightgray;
+}
+
+#owl-example {
+    height: 200px;
+}
+
+#contactme {
+    background-color: lightgray
+}
+#owl-example .item img{
+  display: block;
+  width: auto;
+  height: auto;
+
+}
