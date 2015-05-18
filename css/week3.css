@@ -22,9 +22,7 @@
     height: 50px;
 }
 
-#skills {
-    background-color: lightgray;
-}
+
 
 #statistics {
     font-weight: 700;
@@ -32,23 +30,13 @@
     height: 200px;
 }
 
-#stufficando {
-    background-color: lightgray;
-}
 
-#workstatus {}
-
-#resume {
-    background-color: lightgray;
-}
 
 #owl-example {
     height: 200px;
 }
 
-#contactme {
-    background-color: lightgray
-}
+
 #owl-example .item img{
   display: block;
   width: auto;

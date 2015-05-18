@@ -1,0 +1,18 @@
+@mixin background-color {
+	
+	background-color: lightgray;
+
+}
+#skills {
+    @include background-color;
+}
+#stufficando {
+    @include  background-color;
+}
+#resume {
+    @include background-color;
+}
+#contactme {
+    @include background-color;
+}
+@import "week3.css"
